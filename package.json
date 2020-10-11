@@ -1,0 +1,24 @@
+{
+  "name": "bradfield",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "luxon": "^1.25.0",
+    "microseconds": "^0.2.0",
+    "nodemon": "^2.0.4",
+    "typescript": "^4.0.3"
+  },
+  "devDependencies": {
+    "jest": "^26.5.3",
+    "ts-jest": "^26.4.1",
+    "ts-node": "^9.0.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon"
+  },
+  "author": "jonathan davenport",
+  "license": "ISC"
+}
