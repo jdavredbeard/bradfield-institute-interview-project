@@ -1,5 +1,4 @@
-Answers for the Bradfield CSI application:
-
+Answers:
 1. See wireshark.md, along with windowsize.png, DNS.png, and ciphersuite.png
 2. See rangeCount.ts and rangeCount.spec.ts
 3. See index.js
